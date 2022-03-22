@@ -1,5 +1,5 @@
 # AccuRanker Country Table Task
-##M ain feature
+## Main feature
 Resuable table with error boundary
 
 ## Problems
